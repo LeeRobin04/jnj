@@ -80,6 +80,9 @@ nav .dropdown-menu .nav-link{color:rgba(0,0,0,0.6)!important;} /* Maintain Downd
 .bloc-lg{
 	padding:100px 20px;
 }
+.bloc-md{
+	padding:50px 20px;
+}
 .bloc-sm{
 	padding:20px;
 }
@@ -820,6 +823,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .img-11-style{
 	height:213px;
 }
+.img-ryanton-farms-style{
+	height:75px;
+	width:75px;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -849,6 +856,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .bgc-2869{
 	background-color:var(--swatch-var-2869);
+}
+.bgc-4874{
+	background-color:var(--swatch-var-4874);
 }
 
 /* Text colour styles */
